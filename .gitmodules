@@ -4,3 +4,6 @@
 [submodule "content/themes/h5bp"]
 	path = content/themes/h5bp
 	url = git://github.com/sickDevelopers/HTML5-Boilerplate-WordPress-Theme
+[submodule "content/mu-plugins/super-cpt"]
+	path = content/mu-plugins/super-cpt
+	url = https://github.com/sickDevelopers/super-cpt.git
